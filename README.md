@@ -18,8 +18,10 @@ This is all very unofficial:
 * Ryan R. Newton (Indiana University)
 
 ----
+
 [Shake Before Building - Replacing Make with Haskell](http://community.haskell.org/~ndm/darcs/shake/academic/icfp2012/shake.tex)
 * Neil Mitchell
+
 ----
 
 Experience Report: a Do-It-Yourself High-Assurance Compiler
