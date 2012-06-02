@@ -1,8 +1,7 @@
 icfp12-paper-links
 ==================
 
-List of Accepted Papers to ICFP 2012, with Papers (preprints) linked
-
+This is all very unofficial:
 
 
 [Elaborating Intersection and Union Types](http://www.cs.cmu.edu/~joshuad/papers/intcomp/Dunfield12_elaboration.pdf)
@@ -38,40 +37,40 @@ Noah M. Daniels, Andrew Gallant, and Norman Ramsey (Tufts University)
 [Functional Programming with Structured Graphs](www.cs.utexas.edu/~wcook/Drafts/2012/graphs.pdf)
 Bruno Oliveira (Seoul National University) and William R. Cook (University of Texas, Austin)
 
-Nested Data-Parallelism on the GPU
+[Nested Data-Parallelism on the GPU](people.cs.uchicago.edu/~jhr/papers/2012/icfp12-gpu-submitted.pdf)
 Lars Bergstrom and John Reppy (University of Chicago)
 
 Deconstraining DSLs
-Will Jones, Tony Field, and Tristan Allwood (Department of Computing, Imperial College London)
+Will Jones, Tony Field, and [Tristan Allwood](http://www.doc.ic.ac.uk/~tora/) (Department of Computing, Imperial College London)
 
 Formal Verification of Monad Transformers
-Brian Huffman (T.U. Munich)
+[Brian Huffman](web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
 
-MetaHaskell: Type Safe Heterogeneous Metaprogramming
+[MetaHaskell: Type Safe Heterogeneous Metaprogramming](http://www.eecs.harvard.edu/~mainland/projects/metahaskell/mainland-metahaskell-draft.pdf)
 Geoffrey Mainland (Microsoft Research)
 
 Introspective Pushdown Analysis of Higher-order Programs
-Christopher Earl (University of Utah), Ilya Sergey (KU Leuven), Matthew Might (University of Utah), and David Van Horn (Northeastern University)
+Christopher Earl (University of Utah), Ilya Sergey (KU Leuven), [Matthew Might](http://matt.might.net/) (University of Utah), and David Van Horn (Northeastern University)
 
 On the Complexity of Equivalence of Specifications of Infinite Objects
-Jörg Endrullis, Dimitri Hendriks, and Rena Bakhshi (VU University Amsterdam)
+Jörg Endrullis, [Dimitri Hendriks](http://www.cs.vu.nl/~diem/publications.html), and Rena Bakhshi (VU University Amsterdam)
 
 Efficient Lookup-Table Protocol in Secure Multiparty Computation
-John Launchbury, Andy Adams-Moran, and Iavor Diatchki (Galois, Inc.)
+[John Launchbury](http://corp.galois.com/john-launchbury), Andy Adams-Moran, and Iavor Diatchki (Galois, Inc.)
 
-Proof-Producing Synthesis of ML from Higher-Order Logic
+[Proof-Producing Synthesis of ML from Higher-Order Logic](www.cl.cam.ac.uk/~mom22/miniml/hol2miniml.pdf)
 Magnus O. Myreen and Scott Owens (University of Cambridge)
 
-Propositions as Sessions
+[Propositions as Sessions](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
 Philip Wadler (University of Edinburgh)
 
-Work Efficient Higher Order Vectorisation
+[Work Efficient Higher Order Vectorisation](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/replicate-icfp2012-1.pdf)
 Ben Lippmeier, Manuel M. T. Chakravarty, Gabriele Keller, and Roman Leshchinskiy (University of New South Wales) and Simon Peyton Jones (Microsoft Research Ltd)
 
-A generic abstract syntax model for embedded languages
+[A generic abstract syntax model for embedded languages](http://www.cse.chalmers.se/~emax/documents/astModel-icfp2012-submitted.pdf)
 Emil Axelsson (Chalmers University of Technology)
 
-Equality proofs and deferred type errors (A compiler pearl)
+[Equality proofs and deferred type errors (A compiler pearl)](http://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/icfp12.pdf)
 Dimitrios Vytiniotis and Simon Peyton Jones (Microsoft Research Cambridge) and José Pedro Magalhães (Utrecht University)
 
 Painless programming combining reduction and search. Design principles for embedding decision procedures in high-level languages.
