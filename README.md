@@ -16,7 +16,7 @@ If there is only one affiliation for several listed authors, then it may be the 
 
 ----
 
-[A Meta-Scheduler for the Par-Monad: Composable Scheduling for the Heterogeneous Cloud](www.cs.indiana.edu/~rrnewton/papers/meta-par_submission.pdf)
+[A Meta-Scheduler for the Par-Monad: Composable Scheduling for the Heterogeneous Cloud](http://www.cs.indiana.edu/~rrnewton/papers/meta-par_submission.pdf)
 * Adam Foltzer
 * Abhishek Kulkarni
 * Rebecca Swords
@@ -45,7 +45,7 @@ Experience Report: a Do-It-Yourself High-Assurance Compiler
 
 ----
 
-[Automatic Amortised Analysis of Dynamic Memory Allocation for Lazy Functional Programs](www.dcc.fc.up.pt/~pbv/AALazyExtended.pdf)
+[Automatic Amortised Analysis of Dynamic Memory Allocation for Lazy Functional Programs](http://www.dcc.fc.up.pt/~pbv/AALazyExtended.pdf)
 * Pedro Vasconcelos
 * Hugo Simoes
 * Mario Florido (Universidade do Porto)
@@ -54,7 +54,7 @@ Experience Report: a Do-It-Yourself High-Assurance Compiler
 
 ----
 
-[Verified Heap Theorem Prover by Paramodulation](www.cs.princeton.edu/~appel/papers/verismall.pdf)
+[Verified Heap Theorem Prover by Paramodulation](http://www.cs.princeton.edu/~appel/papers/verismall.pdf)
 * Gordon Stewart
 * Lennart Beringer
 * Andrew W. Appel (Princeton University)
@@ -81,13 +81,13 @@ Experience Report: Haskell in Computational Biology
 
 ----
 
-[Functional Programming with Structured Graphs](www.cs.utexas.edu/~wcook/Drafts/2012/graphs.pdf)
+[Functional Programming with Structured Graphs](http://www.cs.utexas.edu/~wcook/Drafts/2012/graphs.pdf)
 * Bruno Oliveira (Seoul National University)
 * William R. Cook (University of Texas, Austin)
 
 ----
 
-[Nested Data-Parallelism on the GPU](people.cs.uchicago.edu/~jhr/papers/2012/icfp12-gpu-submitted.pdf)
+[Nested Data-Parallelism on the GPU](http://people.cs.uchicago.edu/~jhr/papers/2012/icfp12-gpu-submitted.pdf)
 * Lars Bergstrom
 * John Reppy (University of Chicago)
 
@@ -101,7 +101,7 @@ Deconstraining DSLs
 ----
 
 Formal Verification of Monad Transformers
-* [Brian Huffman](web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
+* [Brian Huffman](http://web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
 
 ----
 
@@ -132,7 +132,7 @@ Efficient Lookup-Table Protocol in Secure Multiparty Computation
 
 ----
 
-[Proof-Producing Synthesis of ML from Higher-Order Logic](www.cl.cam.ac.uk/~mom22/miniml/hol2miniml.pdf)
+[Proof-Producing Synthesis of ML from Higher-Order Logic](http://www.cl.cam.ac.uk/~mom22/miniml/hol2miniml.pdf)
 * Magnus O. Myreen
 * Scott Owens (University of Cambridge)
 
@@ -176,7 +176,7 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 
 ----
 
-[Practical Typed Lazy Contracts](www.cs.kent.ac.uk/~oc/contracts.html)
+[Practical Typed Lazy Contracts](http://www.cs.kent.ac.uk/~oc/contracts.html)
 * [Olaf Chitil](http://www.cs.kent.ac.uk/people/staff/oc/) (University of Kent)
 
 ----
@@ -188,14 +188,14 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 
 ----
 
-[Functional Programs that Explain their Work](dynamicaspects.org/papers/icfp12-submitted.pdf)
+[Functional Programs that Explain their Work](http://dynamicaspects.org/papers/icfp12-submitted.pdf)
 * Roly Perera and Umut A. Acar (Max Planck Institute for Software Systems)
 * James Cheney (University of Edinburgh)
 * Paul Blain Levy (University of Birmingham)
 
 ----
 
-[Operational Semantics Using the Partiality Monad](www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf)
+[Operational Semantics Using the Partiality Monad](http://www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf)
 * Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
 
 ----
