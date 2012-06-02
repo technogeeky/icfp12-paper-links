@@ -74,23 +74,26 @@ Emil Axelsson (Chalmers University of Technology)
 Dimitrios Vytiniotis and Simon Peyton Jones (Microsoft Research Cambridge) and José Pedro Magalhães (Utrecht University)
 
 Painless programming combining reduction and search. Design principles for embedding decision procedures in high-level languages.
-Tim Sheard (Portland State University)
+[Tim Sheard](http://web.cecs.pdx.edu/~sheard/) (Portland State University)
 
 An Error-Tolerant Type System for Variational Lambda Calculus
-Sheng Chen, Martin Erwig, and Eric Walkingshaw (Oregon State University)
+Sheng Chen, [Martin Erwig](http://web.engr.oregonstate.edu/~erwig/), and Eric Walkingshaw (Oregon State University)
 
-Practical Typed Lazy Contracts
-Olaf Chitil (University of Kent)
+[Practical Typed Lazy Contracts](www.cs.kent.ac.uk/~oc/contracts.html)
+[Olaf Chitil](http://www.cs.kent.ac.uk/people/staff/oc/) (University of Kent)
 
-Superficially Substructural Types
+[Superficially Substructural Types](http://www.cs.cmu.edu/~neelk/icfp12-superficial-krishnaswami-turon-dreyer-garg.pdf) [appendix](www.cs.cmu.edu/~neelk/icfp12-appendix.pdf)
 Neelakantan R. Krishnaswami (MPI-SWS), Aaron Turon (Northeastern University), and Derek Dreyer and Deepak Garg (MPI-SWS)
 
-Functional Programs that Explain their Work
+[Functional Programs that Explain their Work](dynamicaspects.org/papers/icfp12-submitted.pdf)
 Roly Perera and Umut A. Acar (Max Planck Institute for Software Systems), James Cheney (University of Edinburgh), and Paul Blain Levy (University of Birmingham)
 
-Operational Semantics Using the Partiality Monad
+[Operational Semantics Using the Partiality Monad](www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf)
 Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
 
 Typing unmarshalling without marshalling types
-Grégoire Henry (Univ Paris Diderot), Michel Mauny (ENSTA-ParisTech), and Emmanuel Chailloux and Pascal Manoury (Université Pierre et Marie Curie)
+
+* Grégoire Henry (Univ Paris Diderot)
+* [Michel Mauny](http://www.mauny.net/index.en.php) (ENSTA-ParisTech)
+* Emmanuel Chailloux and Pascal Manoury (Université Pierre et Marie Curie)
 
