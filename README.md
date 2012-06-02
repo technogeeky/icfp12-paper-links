@@ -86,10 +86,12 @@ Sheng Chen, [Martin Erwig](http://web.engr.oregonstate.edu/~erwig/), and Eric Wa
 Neelakantan R. Krishnaswami (MPI-SWS), Aaron Turon (Northeastern University), and Derek Dreyer and Deepak Garg (MPI-SWS)
 
 [Functional Programs that Explain their Work](dynamicaspects.org/papers/icfp12-submitted.pdf)
-Roly Perera and Umut A. Acar (Max Planck Institute for Software Systems), James Cheney (University of Edinburgh), and Paul Blain Levy (University of Birmingham)
+* Roly Perera and Umut A. Acar (Max Planck Institute for Software Systems)
+* James Cheney (University of Edinburgh)
+* Paul Blain Levy (University of Birmingham)
 
 [Operational Semantics Using the Partiality Monad](www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf)
-Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
+* Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
 
 Typing unmarshalling without marshalling types
 
