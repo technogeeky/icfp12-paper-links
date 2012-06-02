@@ -1,8 +1,13 @@
 icfp12-paper-links
 ==================
 
-This is all very unofficial:
+This is all very unofficial. If you know where a paper is that I couldn't find, let me know in #haskell, submit a pull request, or e-mail me.
 
+If you are the author of one of these papers and want the link retracted (for whatever reason), let me know.
+
+If there is only one affiliation for several listed authors, then it may be the case that they all share the same affiliation. It also may not be the case.
+
+----
 
 [Elaborating Intersection and Union Types](http://www.cs.cmu.edu/~joshuad/papers/intcomp/Dunfield12_elaboration.pdf)
 * Joshua Dunfield (MPI-SWS)
