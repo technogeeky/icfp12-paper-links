@@ -3,7 +3,7 @@ icfp12-paper-links
 
 This is a transcription of the list of accepted papers to ICFP'12. I don't like lists that don't have hyperlinks, so this is my attempt to hyperlink-all-the-things.
 
-This is all very unofficial. 
+This is all very unofficial.
 
 If you know where a paper is that I couldn't find, let me know in #haskell, submit a pull request, or e-mail me.
 If you are the author of one of these papers and want the link retracted (for whatever reason), let me know.
@@ -195,7 +195,7 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 
 ----
 
-[Operational Semantics Using the Partiality Monad](http://www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf)
+[Operational Semantics Using the Partiality Monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.pdf), also [slides](http://www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf) from a presentation
 * Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
 
 ----
