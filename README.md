@@ -194,8 +194,7 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 * Paul Blain Levy (University of Birmingham)
 
 ----
-
-[Operational Semantics Using the Partiality Monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.html) ([Slides](http://www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf))
+[Operational Semantics Using the Partiality Monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.pdf), also [slides](http://www.cse.chalmers.se/~nad/publications/danielsson-aim11-talk.pdf) from a presentation
 * Nils Anders Danielsson (Chalmers University of Technology and University of Gothenburg)
 
 ----
