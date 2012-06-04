@@ -201,7 +201,7 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 ----
 
 Typing unmarshalling without marshalling types
-* Grégoire Henry (Univ Paris Diderot)
+* [Grégoire Henry](http://www.pps.univ-paris-diderot.fr/~henry/) (Univ Paris Diderot)
 * [Michel Mauny](http://www.mauny.net/index.en.php) (ENSTA-ParisTech)
-* Emmanuel Chailloux and Pascal Manoury (Université Pierre et Marie Curie)
+* [Emmanuel Chailloux](http://www-apr.lip6.fr/~chaillou/) and Pascal Manoury (Université Pierre et Marie Curie)
 
