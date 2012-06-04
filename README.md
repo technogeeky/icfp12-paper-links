@@ -204,3 +204,14 @@ Typing unmarshalling without marshalling types
 * [Michel Mauny](http://www.mauny.net/index.en.php) (ENSTA-ParisTech)
 * [Emmanuel Chailloux](http://www-apr.lip6.fr/~chaillou/) and Pascal Manoury (Université Pierre et Marie Curie)
 
+
+
+
+# Submitted but not Accepted?
+
+----
+
+[F is for Functor](http://www.cs.ox.ac.uk/people/daniel.james/functor/functor.pdf)
+* [Ralf Hinze](http://www.comlab.ox.ac.uk/people/publications/date/Ralf.Hinze.html)
+* Jennifer Hackett
+* [Daniel W.H. James](http://www.comlab.ox.ac.uk/people/publications/date/Daniel.James.html)
