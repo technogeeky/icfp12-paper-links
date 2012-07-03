@@ -93,8 +93,8 @@ Experience Report: Haskell in Computational Biology
 
 ----
 
-Deconstraining DSLs
-* Will Jones
+[Deconstraining DSLs](http://www.doc.ic.ac.uk/~wlj05/files/Deconstraining.pdf)
+* [Will Jones](http://www.doc.ic.ac.uk/~wlj05/haskell.php) (Department of Computing, Imperial College London)
 * Tony Field
 * [Tristan Allwood](http://www.doc.ic.ac.uk/~tora/) (Department of Computing, Imperial College London)
 
