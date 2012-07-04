@@ -1,6 +1,12 @@
 icfp12-paper-links
 ==================
 
+
+> > A special thanks to those who satisfied my penchant for laziness by e-mailing me with updates:
+> * Noah M. Daniels
+> * Ethan Aubin
+
+
 This is a transcription of the list of accepted papers to ICFP'12. I don't like lists that don't have hyperlinks, so this is my attempt to hyperlink-all-the-things.
 
 This is all very unofficial. 
@@ -37,6 +43,8 @@ Experience Report: a Do-It-Yourself High-Assurance Compiler
 * Sebastian Niller (Unaffiliated)
 * Alwyn Goodloe (NASA)
 
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
 ----
 
 [Transporting Functions across Ornaments](http://arxiv.org/pdf/1201.4801)
@@ -65,6 +73,8 @@ Pure Type Systems with Corecursion on Streams
 * [Paula Severi](http://www.cs.le.ac.uk/people/ps56/publications.xml)
 * Fer-Jan de Vries (University of Leicester)
 
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
 ----
 
 A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
@@ -72,10 +82,13 @@ A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
 * C.-H. Luke Ong
 * Steven J. Ramsay (University of Oxford)
 
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
+
 ----
 
-Experience Report: Haskell in Computational Biology
-* Noah M. Daniels
+[Experience Report: Haskell in Computational Biology](http://www.eecs.tufts.edu/~ndaniels/Noah_files/mrfy_experience_report.pdf)
+* [Noah M. Daniels](http://www.eecs.tufts.edu/~ndaniels/Noah.html)
 * Andrew Gallant
 * Norman Ramsey (Tufts University)
 
@@ -98,11 +111,18 @@ Experience Report: Haskell in Computational Biology
 * Tony Field
 * [Tristan Allwood](http://www.doc.ic.ac.uk/~tora/) (Department of Computing, Imperial College London)
 
+
 ----
 
 Formal Verification of Monad Transformers
 * [Brian Huffman](http://web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
 
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
+Related (cites ^):
+
+* [Tycon: Type Constructor Classes and Monad Transformers](http://afp.sourceforge.net/browser_info/current/HOL/HOLCF/Tycon/outline.pdf)
+* [Archive of Formal Proofs](http://afp.sourceforge.net/entries/Tycon.shtml)
 ----
 
 [MetaHaskell: Type Safe Heterogeneous Metaprogramming](http://www.eecs.harvard.edu/~mainland/projects/metahaskell/mainland-metahaskell-draft.pdf)
@@ -116,6 +136,9 @@ Introspective Pushdown Analysis of Higher-order Programs
 * [Matthew Might](http://matt.might.net/) (University of Utah)
 * David Van Horn (Northeastern University)
 
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
 ----
 
 On the Complexity of Equivalence of Specifications of Infinite Objects
@@ -123,12 +146,19 @@ On the Complexity of Equivalence of Specifications of Infinite Objects
 * [Dimitri Hendriks](http://www.cs.vu.nl/~diem/publications.html)
 * Rena Bakhshi (VU University Amsterdam)
 
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/)
+
 ----
 
 Efficient Lookup-Table Protocol in Secure Multiparty Computation
 * [John Launchbury](http://corp.galois.com/john-launchbury)
 * Andy Adams-Moran
 * Iavor Diatchki (Galois, Inc.)
+
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/search/Efficient Lookup-Table Protocol in Secure Multiparty Computation)
+
 
 ----
 
@@ -167,12 +197,20 @@ Efficient Lookup-Table Protocol in Secure Multiparty Computation
 Painless programming combining reduction and search. Design principles for embedding decision procedures in high-level languages.
 * [Tim Sheard](http://web.cecs.pdx.edu/~sheard/) (Portland State University)
 
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/search/Efficient Lookup-Table Protocol in Secure Multiparty Computation)
+
+
 ----
 
 An Error-Tolerant Type System for Variational Lambda Calculus
 * Sheng Chen
 * [Martin Erwig](http://web.engr.oregonstate.edu/~erwig/)
 * Eric Walkingshaw (Oregon State University)
+
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/search/Efficient Lookup-Table Protocol in Secure Multiparty Computation)
+
 
 ----
 
@@ -203,6 +241,9 @@ Typing unmarshalling without marshalling types
 * [Grégoire Henry](http://www.pps.univ-paris-diderot.fr/~henry/) (Univ Paris Diderot)
 * [Michel Mauny](http://www.mauny.net/index.en.php) (ENSTA-ParisTech)
 * [Emmanuel Chailloux](http://www-apr.lip6.fr/~chaillou/) and Pascal Manoury (Université Pierre et Marie Curie)
+
+
+> #### [Unavailable as of July 4th 2012](http://www.google.com/search/Efficient Lookup-Table Protocol in Secure Multiparty Computation)
 
 
 
