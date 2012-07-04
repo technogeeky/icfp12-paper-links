@@ -5,6 +5,8 @@ icfp12-paper-links
 > > A special thanks to those who satisfied my penchant for laziness by e-mailing me with updates:
 > * Noah M. Daniels
 > * Ethan Aubin
+> * Daniel Wagner
+> * Sjoerd Visscher
 
 
 This is a transcription of the list of accepted papers to ICFP'12. I don't like lists that don't have hyperlinks, so this is my attempt to hyperlink-all-the-things.
