@@ -34,7 +34,7 @@ If there is only one affiliation for several listed authors, then it may be the 
 
 ----
 
-[Shake Before Building - Replacing Make with Haskell](http://community.haskell.org/~ndm/darcs/shake/academic/icfp2012/shake.tex)
+[Shake Before Building - Replacing Make with Haskell](http://community.haskell.org/~ndm/downloads/paper-shake_before_building-10_sep_2012.pdf)
 * Neil Mitchell
 
 ----
