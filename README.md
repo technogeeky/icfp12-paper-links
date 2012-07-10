@@ -3,10 +3,12 @@ icfp12-paper-links
 
 
 > > A special thanks to those who satisfied my penchant for laziness by e-mailing me with updates:
+> * Ethan Aubin (x2)
 > * Noah M. Daniels
-> * Ethan Aubin
-> * Daniel Wagner
+> * Neil Mitchell
 > * Sjoerd Visscher
+> * Daniel Wagner
+
 
 
 This is a transcription of the list of accepted papers to ICFP'12. I don't like lists that don't have hyperlinks, so this is my attempt to hyperlink-all-the-things.
@@ -132,7 +134,7 @@ Related (cites ^):
 
 ----
 
-Introspective Pushdown Analysis of Higher-order Programs
+[Introspective Pushdown Analysis of Higher-order Programs](http://arxiv.org/pdf/1207.1813v1)
 * Christopher Earl (University of Utah)
 * Ilya Sergey (KU Leuven)
 * [Matthew Might](http://matt.might.net/) (University of Utah)
