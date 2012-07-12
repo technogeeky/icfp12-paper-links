@@ -41,13 +41,11 @@ If there is only one affiliation for several listed authors, then it may be the 
 
 ----
 
-Experience Report: a Do-It-Yourself High-Assurance Compiler
+[Experience Report: a Do-It-Yourself High-Assurance Compiler](http://www.cs.indiana.edu/~lepike/pubs/pike-icfp12.pdf)
 * Lee Pike (Galois, Inc.)
 * Nis Wegmann (University of Copenhagen)
 * Sebastian Niller (Unaffiliated)
 * Alwyn Goodloe (NASA)
-
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
 
 ----
 
@@ -126,6 +124,7 @@ Formal Verification of Monad Transformers
 Related (cites ^):
 
 * [Tycon: Type Constructor Classes and Monad Transformers](http://afp.sourceforge.net/browser_info/current/HOL/HOLCF/Tycon/outline.pdf)
+
 * [Archive of Formal Proofs](http://afp.sourceforge.net/entries/Tycon.shtml)
 ----
 
