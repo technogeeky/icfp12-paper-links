@@ -3,11 +3,11 @@ icfp12-paper-links
 
 
 > > A special thanks to those who satisfied my penchant for laziness by e-mailing me with updates:
-> * Ethan Aubin (x2)
 > * Noah M. Daniels
 > * Neil Mitchell
 > * Sjoerd Visscher
 > * Daniel Wagner
+> * "He who wishes not to be named"
 
 
 
@@ -116,15 +116,12 @@ A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
 
 ----
 
-Formal Verification of Monad Transformers
+[Formal Verification of Monad Transformers](http://arxiv.org/abs/1207.3208)
 * [Brian Huffman](http://web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
-
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
 
 Related (cites ^):
 
 * [Tycon: Type Constructor Classes and Monad Transformers](http://afp.sourceforge.net/browser_info/current/HOL/HOLCF/Tycon/outline.pdf)
-
 * [Archive of Formal Proofs](http://afp.sourceforge.net/entries/Tycon.shtml)
 ----
 
