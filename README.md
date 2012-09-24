@@ -71,21 +71,16 @@ If there is only one affiliation for several listed authors, then it may be the 
 
 ----
 
-Pure Type Systems with Corecursion on Streams
+[Pure Type Systems with Corecursion on Streams](http://www.cs.le.ac.uk/people/fdevries/fdv1/Distribution/icfp25-severi.pdf)
 * [Paula Severi](http://www.cs.le.ac.uk/people/ps56/publications.xml)
 * Fer-Jan de Vries (University of Leicester)
 
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
-
 ----
 
-A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
+[A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases](http://mjolnir.cs.ox.ac.uk/papers/traversal.pdf)
 * Robin P. Neatherway
 * C.-H. Luke Ong
 * Steven J. Ramsay (University of Oxford)
-
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
-
 
 ----
 
@@ -102,7 +97,7 @@ A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
 
 ----
 
-[Nested Data-Parallelism on the GPU](http://people.cs.uchicago.edu/~jhr/papers/2012/icfp12-gpu-submitted.pdf)
+[Nested Data-Parallelism on the GPU](http://people.cs.uchicago.edu/~jhr/papers/2012/icfp-gpu.pdf)
 * Lars Bergstrom
 * John Reppy (University of Chicago)
 
@@ -116,7 +111,7 @@ A Traversal-based Algorithm for Model Checking Recursion Schemes with Cases
 
 ----
 
-[Formal Verification of Monad Transformers](http://arxiv.org/abs/1207.3208)
+[Formal Verification of Monad Transformers](http://arxiv.org/pdf/1207.3208v1)
 * [Brian Huffman](http://web.cecs.pdx.edu/~brianh/talks/110713-defense.pdf) (T.U. Munich)
 
 Related (cites ^):
@@ -130,24 +125,18 @@ Related (cites ^):
 
 ----
 
-[Introspective Pushdown Analysis of Higher-order Programs](http://arxiv.org/pdf/1207.1813v1)
+[Introspective Pushdown Analysis of Higher-order Programs](http://www.ccs.neu.edu/home/dvanhorn/pubs/earl-sergey-might-vanhorn-icfp12.pdf)
 * Christopher Earl (University of Utah)
 * Ilya Sergey (KU Leuven)
 * [Matthew Might](http://matt.might.net/) (University of Utah)
 * David Van Horn (Northeastern University)
 
-
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
-
 ----
 
-On the Complexity of Equivalence of Specifications of Infinite Objects
+[On the Complexity of Equivalence of Specifications of Infinite Objects](http://arxiv.org/pdf/1207.0158v1)
 * Jörg Endrullis
 * [Dimitri Hendriks](http://www.cs.vu.nl/~diem/publications.html)
 * Rena Bakhshi (VU University Amsterdam)
-
-
-> #### [Unavailable as of July 4th 2012](http://www.google.com/)
 
 ----
 
@@ -219,14 +208,14 @@ An Error-Tolerant Type System for Variational Lambda Calculus
 
 ----
 
-[Superficially Substructural Types](http://www.cs.cmu.edu/~neelk/icfp12-superficial-krishnaswami-turon-dreyer-garg.pdf) [appendix](www.cs.cmu.edu/~neelk/icfp12-appendix.pdf)
+[Superficially Substructural Types](http://www.cs.cmu.edu/~neelk/icfp12-superficial-krishnaswami-turon-dreyer-garg.pdf) [appendix](http://www.cs.cmu.edu/~neelk/icfp12-appendix.pdf)
 * Neelakantan R. Krishnaswami (MPI-SWS)
 * Aaron Turon (Northeastern University)
 * Derek Dreyer and Deepak Garg (MPI-SWS)
 
 ----
 
-[Functional Programs that Explain their Work](http://dynamicaspects.org/papers/icfp12-submitted.pdf)
+[Functional Programs that Explain their Work](http://dynamicaspects.org/papers/icfp77-perera.pdf), also [supplemental](http://dynamicaspects.org/papers/icfp77-perera-suppl.pdf)
 * Roly Perera and Umut A. Acar (Max Planck Institute for Software Systems)
 * James Cheney (University of Edinburgh)
 * Paul Blain Levy (University of Birmingham)
