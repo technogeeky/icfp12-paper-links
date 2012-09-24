@@ -182,7 +182,7 @@ Efficient Lookup-Table Protocol in Secure Multiparty Computation
 
 ----
 
-[A generic abstract syntax model for embedded languages](http://www.cse.chalmers.se/~emax/documents/astModel-icfp2012-submitted.pdf)
+[A generic abstract syntax model for embedded languages](http://www.cse.chalmers.se/~emax/documents/axelsson2012generic.pdf), [literate](http://www.cse.chalmers.se/~emax/documents/axelsson2012generic.lhs), [slides](http://www.cse.chalmers.se/~emax/documents/axelsson2012generic-slides.pdf)
 * Emil Axelsson (Chalmers University of Technology)
 
 ----
